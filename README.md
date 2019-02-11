@@ -1,2 +1,0 @@
-# GitHubTrg
-Training 
